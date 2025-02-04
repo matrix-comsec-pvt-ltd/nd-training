@@ -1,4 +1,5 @@
-# nd-training
-repository for GitHub training
+# ND Training
 
-**today is training day1**
+Repository for GitHub training.
+
+**Today is training day 1**
